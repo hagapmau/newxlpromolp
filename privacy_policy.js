@@ -1,8 +1,8 @@
 const kontenPrivacyPolicy = `
 Kebijakan Privasi (Privacy Policy)
-Terakhir Diperbarui: [Masukkan Tanggal Hari Ini]
+Terakhir Diperbarui: 7/4/2026
 
-Selamat datang di [Nama Website Anda]. Kami sangat menghargai privasi pengunjung dan calon pelanggan kami. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi pribadi yang Anda berikan melalui website ini.
+Selamat datang di https://newxlpromolp.pages.dev . Kami sangat menghargai privasi pengunjung dan calon pelanggan kami. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi pribadi yang Anda berikan melalui website ini.
 
 1. Informasi Penting dan Siapa Kami
 Website ini newxlpromolp.pages.dev dikelola secara mandiri oleh Tim sales XL satu selaku Sales resmi untuk produk XL SATU.
