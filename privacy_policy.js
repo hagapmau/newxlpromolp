@@ -43,7 +43,7 @@ Dengan menggunakan website kami dan mengirimkan data pribadi Anda, Anda menyatak
 7. Hubungi Kami
 Jika Anda memiliki pertanyaan mengenai Kebijakan Privasi ini atau ingin memperbarui/menghapus data Anda, silakan hubungi kami melalui:
 
-- Nama Kontak: Tim Sales XL satu
+- Nama Kontak: Haga Purwa Maulana
 
 - WhatsApp/No. HP: 0878 9863 7535
 
